@@ -19,7 +19,6 @@ public class ShortestPath {
 
         int X2 = x*x, Y2 = y*y;
         double sp = Math.sqrt(X2+Y2);
-
         System.out.println(sp);
    }
     

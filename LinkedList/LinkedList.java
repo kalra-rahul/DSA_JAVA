@@ -136,7 +136,7 @@ public class LinkedList {
             prev = curr;
             curr = next;
         }
-        System.out.println("Size Linklist: " + prev.data);
+        System.out.println("Reverse data: " + prev.data);
         head = prev; 
     }
 

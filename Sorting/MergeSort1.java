@@ -2,7 +2,7 @@ package Sorting;
 
 import java.util.Arrays;
 
-public class MergeSort {
+public class MergeSort1 {
 
     public static int[] spliceArray(int arr[], int start, int end){
        int length = end-start+1; 
